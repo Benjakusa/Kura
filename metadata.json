@@ -1,0 +1,7 @@
+{
+  "name": "KuraLive - Secure Vote Reporting System",
+  "description": "A secure, multi-tenant election management and real-time vote reporting platform with role-based access control, analytics, and automated agent workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
